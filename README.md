@@ -37,7 +37,7 @@ Customize the image/link below for the GHA workflow status.
 To utilize this composite action, use the following workflow syntax:
 ```yaml
 - name: Composite action
-  uses: hgdata/composite-action-template@v1
+  uses: hgdata/composite-action-template
 ```
 
-Note that `uses` will accept typical tag references after the `@`.
+Note that tags can be referenced with `@<tag>`.
