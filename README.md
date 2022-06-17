@@ -40,4 +40,4 @@ To utilize this composite action, use the following workflow syntax:
   uses: hgdata/composite-action-template@v1.0.0
 ```
 
-Note that there _must_ be a tag reference.
+Note that there _must_ be a tag/branch reference.
